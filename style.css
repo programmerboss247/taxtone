@@ -1,0 +1,234 @@
+
+body{
+font-family:'Poppins', sans-serif;
+
+}
+
+.one{
+
+    overflow:hidden;
+}
+.main{
+width:1200px;
+background-color:#FFD868;
+margin:0 auto;
+display:flex;
+
+}
+.half-width{
+    width: 570px;
+    height: 814px;
+    float:left;
+margin-left:3%;
+padding-left:2%;
+
+}
+
+.half-width img{
+
+width:90%;
+margin-top:40px;
+
+
+
+
+}
+
+h1{
+    width:570px;
+    height:294px;
+    font-family:'Helvetica Neue';
+    font-style:normal;
+    font-size:80px;
+    line-height:98px;
+    color:#721B65;
+
+
+}
+
+.half-width .para{
+
+    width:570px;
+    height:96px;
+    font-family:'Helvetica Neue';
+    font-style:normal;
+    font-weight:400;
+    font-size:20px;
+    line-height:24px;
+    color:rgba(0,0,0,0.6);
+    
+
+}
+
+.button{
+display:flex;
+}
+.btn1{
+
+
+    justify-content: center;
+    align-items: center;
+    padding: 16px 18px;
+    
+    width: 273px;
+    height: 56px;
+    
+    background: #FFFFFF;
+    border-color:#fff;
+    border-radius: 10px;
+    margin:0 30px;
+    
+}
+
+.btn2{
+    
+
+justify-content: center;
+align-items: center;
+padding: 16px 18px;
+
+width: 273px;
+height: 56px;
+
+background: #721B65;
+border-radius: 10px;
+border-color:#721B65;
+
+
+    }
+
+    .main2{
+width:1100px;
+display: flex;
+margin:0 auto;
+margin-top:100px;
+
+    }
+
+    .half-width1{
+
+margin:0 50px;
+
+justify-content:center;
+align-items:center;
+
+    }
+    .half-width1 h2{
+margin-top:20%;
+
+
+    }
+
+    .half-width1 h2 span{
+
+        padding:10px;
+        font-size:28px;
+        color:#00000050
+    }
+
+    .half-width1 button{
+
+float:right;
+padding:8px 30px;
+border-radius:5px;
+background-color:#721B65;
+border-color:#721B65;
+border:none;
+color:white;
+
+    }
+
+    .three{
+width:1200px;
+background-color:#FFD868;
+margin-top:80px;
+height:500px;
+margin:0 auto;
+
+    }
+
+    .three h2{
+text-align:center;
+font-size:50px;
+line-height:73px;
+color:#721B65;
+
+    }
+
+    .row{
+display:flex;
+}
+.row img{
+width:90%;
+padding:5%;
+
+}
+
+.three .para{
+text-align:center;
+color:#721B65;
+
+}
+
+.four{
+width:1000px;
+margin-left:20px;
+margin:0 auto;
+padding-top:50px;
+
+}
+
+.four h2 span{
+color:#00000080
+
+
+}
+
+.four button{
+text-align:center;
+padding:10px 25px;
+color:#fff;
+background-color:#721B65;
+border-color:#721B65;
+border:none;
+margin: 0 auto;
+border-radius:5px;
+
+margin-left:45%;
+margin-top:30px;
+}
+
+
+.five{
+width:1200px;
+height:300px;
+display:flex;
+margin-top:100px;
+margin:0 auto;
+}
+
+
+.five .social-icon div{
+background-color:#721B65;
+padding:12px 16px;
+margin:10px;
+border-radius:50%;
+text-align:center;
+display:inline-block;
+justify-content:center;
+margin-top:100px;
+
+
+}
+
+.social-icon div a img{
+width:20px;
+margin-top:20%;
+
+
+}
+
+.containerMol{
+margin-left:42%;
+
+}
